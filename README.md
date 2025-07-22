@@ -1,6 +1,7 @@
 # Facial Expression Recognition (FER) using FER2013Plus
 
-This repository contains a Jupyter Notebook (`FER.ipynb`) implementing Facial Expression Recognition (FER) using the FER2013Plus dataset.
+This notebook trains a convolutional neural network on the FER2013Plus dataset for facial expression recognition and achieves a **validation accuracy of 78%**.
+
 
 ## 📘 Notebook
 
