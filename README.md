@@ -16,6 +16,6 @@ This repository contains a Jupyter Notebook (`FER.ipynb`) implementing Facial Ex
 ## 📊 Dataset: FER2013Plus
 
 - **Source:** The enhanced FER-2013 dataset relabeled by Microsoft Research and provided on Kaggle  
-- **Link:** https://www.kaggle.com/datasets/subhaditya/fer2013plus/data :contentReference[oaicite:1]{index=1}
-- **Details:** Contains improved emotion labels (including contempt) over original FER-2013 :contentReference[oaicite:2]{index=2}.
+- **Link:** https://www.kaggle.com/datasets/subhaditya/fer2013plus/data 
+- **Details:** Contains improved emotion labels (including contempt) over original FER-2013.
 
